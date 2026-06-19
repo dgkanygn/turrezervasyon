@@ -1,0 +1,221 @@
+[
+    {
+        "id": 1,
+        "title": "Kapadokya Peri Bacaları ve Balon Turu",
+        "location": "Nevşehir, Türkiye",
+        "price": 2450,
+        "startDate": "2026-11-15 05:30:00",
+        "endDate": "2026-11-17 18:00:00",
+        "capacity": 16,
+        "occupied": 10,
+        "images": [
+            "https://images.unsplash.com/photo-1527838832700-5059252407fa?q=80&w=1200&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?q=80&w=1200&auto=format&fit=crop"
+        ],
+        "vendorEmail": "iletisim@kapadokyatur.com",
+        "description": "Sabahın ilk ışıklarıyla birlikte peribacalarının üzerinden süzülen renkli balonların yarattığı büyüleyici manzarayı gökyüzünden izleyin. Profesyonel pilotlarımız eşliğinde unutulmaz bir VIP deneyimi.",
+        "vehicleType": "VIP Mercedes Sprinter",
+        "itinerary": [
+            {
+                "day": 1,
+                "description": "Otelden VIP araçlarla alınış ve balon kalkış alanına transfer."
+            },
+            {
+                "day": 2,
+                "description": "Balonların şişirilmesini izlerken yerel lezzetlerle hafif kahvaltı."
+            },
+            {
+                "day": 3,
+                "description": "Kapadokya vadileri üzerinde gün doğumu eşliğinde 1 saatlik uçuş."
+            },
+            {
+                "day": 4,
+                "description": "İniş alanında şampanyalı kutlama, sertifika dağıtımı ve otele dönüş."
+            }
+        ],
+        "included": [
+            "Otelden gidiş-dönüş VIP transfer",
+            "Uçuş öncesi hafif kahvaltı",
+            "1 saatlik balon uçuşu",
+            "Şampanyalı kutlama ve sertifika"
+        ],
+        "excluded": [
+            "Kişisel harcamalar",
+            "Profesyonel fotoğraf ve video çekimi"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Ege Esintisi Günübirlik Tekne Turu",
+        "location": "Muğla, Bodrum",
+        "price": 1800,
+        "startDate": "2026-07-20 09:30:00",
+        "endDate": "2026-07-20 17:30:00",
+        "capacity": 45,
+        "occupied": 42,
+        "images": [
+            "https://images.unsplash.com/photo-1559136555-9303baea8ebd?q=80&w=1200&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?q=80&w=1200&auto=format&fit=crop"
+        ],
+        "vendorEmail": "bodrum@egeboat.com",
+        "description": "Bodrum'un en güzel koylarında yüzme molaları, teknede açık büfe öğle yemeği ve sınırsız eğlence sunan muhteşem bir deniz turu.",
+        "vehicleType": "Geleneksel Bodrum Guleti (Çift Katlı)",
+        "itinerary": [
+            {
+                "day": 1,
+                "description": "09:30 Limandan hareket ve ilk durak olan Akvaryum Koyu'nda yüzme molası."
+            },
+            {
+                "day": 1,
+                "description": "Öğle saatlerinde teknede taze hazırlanmış ızgara menüsü ve açık büfe servisi."
+            },
+            {
+                "day": 1,
+                "description": "Karaada ve Poyraz Koyu ziyaretleri sonrası 17:30'da limana geri dönüş."
+            }
+        ],
+        "included": [
+            "Öğle yemeği (Izgara Tavuk/Balık, Makarna, Salata)",
+            "Gün boyu çay ve su ikramı",
+            "Rehberlik hizmeti ve can yelekleri"
+        ],
+        "excluded": [
+            "Tekne barından alınacak alkollü/alkolsüz ekstra içecekler",
+            "Koylar arası su sporları aktiviteleri"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Büyük Karadeniz Yaylalar Turu",
+        "location": "Trabzon & Rize, Türkiye",
+        "price": 8500,
+        "startDate": "2026-08-12 08:00:00",
+        "endDate": "2026-08-16 20:00:00",
+        "capacity": 27,
+        "occupied": 18,
+        "images": [
+            "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1200&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1200&auto=format&fit=crop"
+        ],
+        "vendorEmail": "info@karadenizgezi.com",
+        "description": "Fırtına Deresi, Ayder Yaylası, Uzungöl ve Pokut Yaylası'nı kapsayan, doğanın tam kalbinde 4 gece 5 günlük rüya gibi bir yayla turu.",
+        "vehicleType": "Isuzu Novo Lux Yarım Otobüs",
+        "itinerary": [
+            {
+                "day": 1,
+                "description": "Trabzon Havalimanı karşılama, Sümela Manastırı ziyareti ve otele yerleşme."
+            },
+            {
+                "day": 2,
+                "description": "Uzungöl turu, seyir terası gezisi ve serbest zaman."
+            },
+            {
+                "day": 3,
+                "description": "Fırtına Deresi'nde zipline/rafting aktivitesi ve Ayder Yaylası transferi."
+            },
+            {
+                "day": 4,
+                "description": "Bulut denizi manzarasıyla ünlü Pokut ve Sal yaylalarında doğa yürüyüşü."
+            },
+            {
+                "day": 5,
+                "description": "Rize bezi atölyeleri gezisi sonrası Trabzon'dan dönüş yolculuğu."
+            }
+        ],
+        "included": [
+            "4 Gece yayla otellerinde yarım pansiyon konaklama",
+            "Açık büfe sabah kahvaltıları ve akşam yemekleri",
+            "Tüm milli park giriş ücretleri",
+            "Lüks araçlarla ulaşım ve profesyonel rehberlik"
+        ],
+        "excluded": [
+            "Öğle yemekleri",
+            "Rafting, zipline gibi ekstrem aktivite ücretleri"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Günübirlik Efes Antik Kenti ve Şirince Turu",
+        "location": "İzmir, Selçuk",
+        "price": 1400,
+        "startDate": "2026-09-05 07:00:00",
+        "endDate": "2026-09-05 21:00:00",
+        "capacity": 31,
+        "occupied": 31,
+        "images": [
+            "https://images.unsplash.com/photo-1601582589907-f92af5ed9db8?q=80&w=1200&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?q=80&w=1200&auto=format&fit=crop"
+        ],
+        "vendorEmail": "izmir@egesun.com",
+        "description": "Tarihin sıfır noktasına yolculuk. Dünyaca ünlü Efes Antik Kenti, Meryem Ana Evi ve ardından tarihi Şirince köyünde şarap tadımı.",
+        "vehicleType": "Otokar Sultan Midibüs",
+        "itinerary": [
+            {
+                "day": 1,
+                "description": "07:00 İzmir merkezden hareket, otobüste poğaça ve içecek ikramı."
+            },
+            {
+                "day": 2,
+                "description": "Efes Antik Kenti, Celsus Kütüphanesi ve Antik Tiyatro'nun rehberli gezisi."
+            },
+            {
+                "day": 3,
+                "description": "Meryem Ana Evi ziyareti sonrası Şirince Köyü'ne geçiş, serbest zaman ve alışveriş."
+            }
+        ],
+        "included": [
+            "Klimalı lüks araçlar ile ulaşım",
+            "Profesyonel arkeolog rehberlik hizmeti",
+            "Araç içi ikramlar"
+        ],
+        "excluded": [
+            "Müze ve Ören yeri giriş biletleri (Müzekart tavsiye edilir)",
+            "Öğle yemeği ve Şirince'deki kişisel harcamalar"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Gizemli Doğu Ekspresi ve Kars Kültür Turu",
+        "location": "Kars, Türkiye",
+        "price": 6200,
+        "startDate": "2026-12-20 14:00:00",
+        "endDate": "2026-12-23 19:00:00",
+        "capacity": 20,
+        "occupied": 15,
+        "images": [
+            "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=1200&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop"
+        ],
+        "vendorEmail": "dogu@ekspresstur.com",
+        "description": "Karlar altında bir masal. Çıldır Gölü'nde atlı kızak keyfi, tarihi Ani Harabeleri ve Kars sokaklarında Rus mimarisi izleri.",
+        "vehicleType": "VIP Mercedes Sprinter",
+        "itinerary": [
+            {
+                "day": 1,
+                "description": "Kars Garı veya havalimanı karşılama, butik otele yerleşme ve akşam Kafkas gecesi gösterisi."
+            },
+            {
+                "day": 2,
+                "description": "Ermenistan sınırındaki UNESCO mirası Ani Ören Yeri gezisi ve katedral ziyareti."
+            },
+            {
+                "day": 3,
+                "description": "Donmuş Çıldır Gölü üzerinde yürüyüş, atlı kızak turu ve gölden çıkan sarı balık ziyafeti."
+            },
+            {
+                "day": 4,
+                "description": "Kars Kalesi ve peynir müzesi ziyaretleri sonrası dönüş transferleri."
+            }
+        ],
+        "included": [
+            "3 Gece Kars merkezde butik otelde konaklama",
+            "Sabah kahvaltıları",
+            "İlk gece geleneksel Kafkas Dans Gösterisi ve akşam yemeği",
+            "Çıldır Gölü'nde atlı kızak deneyimi"
+        ],
+        "excluded": [
+            "Kars'a geliş ve Kars'tan dönüş uçak/tren biletleri",
+            "Öğle yemekleri"
+        ]
+    }
+]

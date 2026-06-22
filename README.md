@@ -11,7 +11,7 @@ Bu proje; modern web standartlarına uygun, performanslı ve ölçeklenebilir bi
 Proje, güncel ve kararlı ekosistem bileşenleri kullanılarak katmanlı mimari prensiplerine uygun olarak geliştirilmektedir:
 
 * **Frontend:** React (Next.js / Vite) – Component tabanlı, hızlı ve kullanıcı dostu arayüz yönetimi.
-* **Backend:** Node.js API (Express / NestJS) – RESTful API standartlarında, hızlı ve asenkron veri akışı yönetimi.
+* **Backend:** Node.js API (ExpressJS) – RESTful API standartlarında, hızlı ve asenkron veri akışı yönetimi.
 * **Database:** MySQL – İlişkisel veri tabanı tasarımı, optimize edilmiş sorgular ve güvenli veri saklama.
 
 ---
